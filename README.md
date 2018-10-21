@@ -1,2 +1,3 @@
-# pyDL
-Personal Deep learning library
+# Personal Deep learning library
+
+##### Work in progess
